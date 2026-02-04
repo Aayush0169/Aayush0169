@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hey, I'm ###Ayush! 👋<br>I am a **Full Stack Web Developer** and a final year **BCA** student.I specialize in building responsive, dynamic web applications and have a strong foundation in both frontend and backend technologies.
+ Hey, I'm <b>Ayush!</b> 👋<br>I am a **Full Stack Web Developer** and a final year **BCA** student.I specialize in building responsive, dynamic web applications and have a strong foundation in both frontend and backend technologies.
 
 
 ## 🌐 Socials:
